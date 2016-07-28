@@ -39,6 +39,7 @@
 	"ifc-chat-window-header-tr-close": "Fechar",
 	"ifc-chat-window-header-tr-minimize": "Minimizar",
 	"ifc-chat-window-header-tr-maximize": "Maximizar",
+	"ifc-chat-window-header-embed-tr-participants": " Participantes",
 	"ifc-chat-window-header-embed-tr-settings": "Configurações",
 	"ifc-chat-window-header-embed-tr-clear-conversation": "Limpar Conversação",
 	"ifc-chat-window-header-embed-tr-clear-conversation-body": "Tem certeza de que deseja limpar conversa inteira permanentemente? Por favor, note que irá apagar todas as mensagens de esta conversa.",

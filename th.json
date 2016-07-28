@@ -39,6 +39,7 @@
 	"ifc-chat-window-header-tr-close": "ปิด",
 	"ifc-chat-window-header-tr-minimize": "ทำให้เห็นเป็นน้อย",
 	"ifc-chat-window-header-tr-maximize": "ทำให้สูงสุด",
+	"ifc-chat-window-header-embed-tr-participants": " ผู้เข้าร่วม",
 	"ifc-chat-window-header-embed-tr-settings": "การตั้งค่า",
 	"ifc-chat-window-header-embed-tr-clear-conversation": "การสนทนา ที่ชัดเจน",
 	"ifc-chat-window-header-embed-tr-clear-conversation-body": "คุณแน่ใจหรือว่า ต้องการล้าง การสนทนาทั้งหมด อย่างถาวร? โปรดทราบ ว่ามันจะ ลบข้อความ ทั้งหมดของ การสนทนานี้.",
