@@ -1,5 +1,5 @@
 {
-	"ifc-chat-branding-tr-branding": "Meil töötavad ",
+	"ifc-chat-branding-tr-branding": "Meil töötavad",
 	"ifc-chat-list-header-tr-start-personal-chat": "Alusta Isiklik Vestlus",
 	"ifc-chat-list-header-tr-start-new-chat": "Alusta uut Vestlus",
 	"ifc-chat-list-header-tr-close-app": "Sule App",
@@ -39,6 +39,7 @@
 	"ifc-chat-window-header-tr-close": "Sulge",
 	"ifc-chat-window-header-tr-minimize": "Minimeerima",
 	"ifc-chat-window-header-tr-maximize": "Maksimeerima",
+	"ifc-chat-window-header-embed-tr-participants": "Osalejad",
 	"ifc-chat-window-header-embed-tr-settings": "Seaded",
 	"ifc-chat-window-header-embed-tr-clear-conversation": "Selge Vestlus",
 	"ifc-chat-window-header-embed-tr-clear-conversation-body": "Oled sa kindel, et soovid kustutada kogu vestlus püsivalt? Pange tähele, et see kustutab kõik sõnumid see vestlus.",

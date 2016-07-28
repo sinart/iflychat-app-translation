@@ -1,5 +1,5 @@
 {
-	"ifc-chat-branding-tr-branding": "nosaltres executar en ",
+	"ifc-chat-branding-tr-branding": "nosaltres executar en",
 	"ifc-chat-list-header-tr-start-personal-chat": "Iniciar un Xat Personal",
 	"ifc-chat-list-header-tr-start-new-chat": "Iniciar nou Xat",
 	"ifc-chat-list-header-tr-close-app": "Tancar Aplicació",
@@ -39,6 +39,7 @@
 	"ifc-chat-window-header-tr-close": "Tancar",
 	"ifc-chat-window-header-tr-minimize": "Minimitzar",
 	"ifc-chat-window-header-tr-maximize": "Maximitzar",
+	"ifc-chat-window-header-embed-tr-participants": "Els Participants",
 	"ifc-chat-window-header-embed-tr-settings": "Ajustos",
 	"ifc-chat-window-header-embed-tr-clear-conversation": "Esborrar Conversa",
 	"ifc-chat-window-header-embed-tr-clear-conversation-body": "Esteu segur que voleu esborrar tota la conversa de forma permanent? Recordeu que s'esborraran tots els missatges d'aquesta conversa.",

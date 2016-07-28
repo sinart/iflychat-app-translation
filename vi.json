@@ -1,5 +1,5 @@
 {
-	"ifc-chat-branding-tr-branding": "Chúng tôi chạy trên ",
+	"ifc-chat-branding-tr-branding": "Chúng tôi chạy trên",
 	"ifc-chat-list-header-tr-start-personal-chat": "Bắt đầu trò chuyện cá nhân",
 	"ifc-chat-list-header-tr-start-new-chat": "Bắt đầu trò chuyện mới",
 	"ifc-chat-list-header-tr-close-app": "Đóng các ứng dụng",
@@ -39,6 +39,7 @@
 	"ifc-chat-window-header-tr-close": "đóng kín",
 	"ifc-chat-window-header-tr-minimize": "Giảm thiểu",
 	"ifc-chat-window-header-tr-maximize": "Tối đa hóa",
+	"ifc-chat-window-header-embed-tr-participants": "Những người tham gia",
 	"ifc-chat-window-header-embed-tr-settings": "sự để vật gì",
 	"ifc-chat-window-header-embed-tr-clear-conversation": "dọn dẹp cuộc hội thoại",
 	"ifc-chat-window-header-embed-tr-clear-conversation-body": "Bạn có chắc chắn bạn muốn xóa toàn bộ cuộc nói chuyện vĩnh viễn? Xin lưu ý rằng nó sẽ xóa tất cả các thông điệp của cuộc trò chuyện này.",

@@ -1,5 +1,5 @@
 {
-	"ifc-chat-branding-tr-branding": "Mi fut ",
+	"ifc-chat-branding-tr-branding": "Mi fut",
 	"ifc-chat-list-header-tr-start-personal-chat": "Indítás egy személyes csevegés",
 	"ifc-chat-list-header-tr-start-new-chat": "Indul az új csevegés",
 	"ifc-chat-list-header-tr-close-app": "Bezár App",
@@ -39,6 +39,7 @@
 	"ifc-chat-window-header-tr-close": "Közel",
 	"ifc-chat-window-header-tr-minimize": "minimalizálása",
 	"ifc-chat-window-header-tr-maximize": "Maximimaximalizálnize",
+	"ifc-chat-window-header-embed-tr-participants": "A résztvevők",
 	"ifc-chat-window-header-embed-tr-settings": "Beállítások",
 	"ifc-chat-window-header-embed-tr-clear-conversation": "Tiszta Beszélgetés",
 	"ifc-chat-window-header-embed-tr-clear-conversation-body": "Biztosan törölni szeretné a teljes beszélgetést véglegesen? Felhívjuk figyelmét, hogy törli az összes üzenetet a beszélgetés.",
