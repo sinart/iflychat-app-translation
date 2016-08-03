@@ -31,6 +31,7 @@
 	"ifc-chat-window-footer-tr-abort-upload": "中止上传",
 	"ifc-chat-window-footer-tr-cancel-upload": "取消",
 	"ifc-chat-window-footer-tr-send-message": "发信息",
+	"ifc-chat-window-footer-tr-send-button": "发送",
 	"ifc-chat-window-header-tr-settings": "设置",
 	"ifc-chat-window-header-tr-clear-conversation": "清除对话",
 	"ifc-chat-window-header-tr-clear-conversation-body": "你确定要永久清除整个对话? 请注意，它会删除此会话的所有消息.",

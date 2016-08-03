@@ -31,6 +31,7 @@
 	"ifc-chat-window-footer-tr-abort-upload": "Keskeyttää Upload",
 	"ifc-chat-window-footer-tr-cancel-upload": "Peruuttaa",
 	"ifc-chat-window-footer-tr-send-message": "Lähetä viesti",
+	"ifc-chat-window-footer-tr-send-button": "Lähetä",
 	"ifc-chat-window-header-tr-settings": "Asetukset",
 	"ifc-chat-window-header-tr-clear-conversation": "Selvä Keskustelu",
 	"ifc-chat-window-header-tr-clear-conversation-body": "Oletko varma, että haluat tyhjentää koko keskustelun pysyvästi? Huomaa, että se poistaa kaikki viestit tämän keskustelun .",

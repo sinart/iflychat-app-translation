@@ -31,6 +31,7 @@
 	"ifc-chat-window-footer-tr-abort-upload": "중단 업로드",
 	"ifc-chat-window-footer-tr-cancel-upload": "취소하다",
 	"ifc-chat-window-footer-tr-send-message": "문자 보내",
+	"ifc-chat-window-footer-tr-send-button": "보내다",
 	"ifc-chat-window-header-tr-settings": "조절",
 	"ifc-chat-window-header-tr-clear-conversation": "지우기 대화",
 	"ifc-chat-window-header-tr-clear-conversation-body": "당신은 당신이 영구적으로 전체 대화 를 삭제 하시겠습니까? 그것은 이 대화 의 모든 메시지를 삭제합니다 있습니다.",
