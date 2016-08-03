@@ -31,6 +31,7 @@
 	"ifc-chat-window-footer-tr-abort-upload": "перервати Завантажити",
 	"ifc-chat-window-footer-tr-cancel-upload": "скасувати",
 	"ifc-chat-window-footer-tr-send-message": "Відправити повідомлення",
+	"ifc-chat-window-footer-tr-send-button": "послати",
 	"ifc-chat-window-header-tr-settings": "установка",
 	"ifc-chat-window-header-tr-clear-conversation": "Очистити діалог",
 	"ifc-chat-window-header-tr-clear-conversation-body": "Ви впевнені , що хочете очистити всю розмову на постійній основі ? Зверніть увагу , що це призведе до видалення всіх повідомлень цієї розмови .",

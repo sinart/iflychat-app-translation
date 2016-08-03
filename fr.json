@@ -31,6 +31,7 @@
 	"ifc-chat-window-footer-tr-abort-upload": "Avorter télécharger",
 	"ifc-chat-window-footer-tr-cancel-upload": "Annuler",
 	"ifc-chat-window-footer-tr-send-message": "Envoyer le message",
+	"ifc-chat-window-footer-tr-send-button": "Envoyer",
 	"ifc-chat-window-header-tr-settings": "Paramètres",
 	"ifc-chat-window-header-tr-clear-conversation": "Effacer la conversation",
 	"ifc-chat-window-header-tr-clear-conversation-body": "Etes-vous sûr vous voulez effacer toute la conversation de façon permanente? S'il vous plaît noter qu'il va supprimer tous les messages de cette conversation.",

@@ -31,6 +31,7 @@
 	"ifc-chat-window-footer-tr-abort-upload": "Прервать Загрузить",
 	"ifc-chat-window-footer-tr-cancel-upload": "Отмена",
 	"ifc-chat-window-footer-tr-send-message": "Отправить сообщение",
+	"ifc-chat-window-footer-tr-send-button": "Отправить",
 	"ifc-chat-window-header-tr-settings": "настройки",
 	"ifc-chat-window-header-tr-clear-conversation": "Очистить разговор",
 	"ifc-chat-window-header-tr-clear-conversation-body": "Вы уверены, что хотите очистить весь разговор перманентно? Обратите внимание, что это приведет к удалению всех сообщений этого разговора.",

@@ -31,6 +31,7 @@
 	"ifc-chat-window-footer-tr-abort-upload": "アップロードを中止",
 	"ifc-chat-window-footer-tr-cancel-upload": "キャンセル",
 	"ifc-chat-window-footer-tr-send-message": "メッセージを送る",
+	"ifc-chat-window-footer-tr-send-button": "送る",
 	"ifc-chat-window-header-tr-settings": "設定",
 	"ifc-chat-window-header-tr-clear-conversation": "クリアな会話",
 	"ifc-chat-window-header-tr-clear-conversation-body": "あなたは永久に全体の会話をクリアにしてもよろしいですか？それはこの会話のすべてのメッセージが削除されますのでご注意ください。",

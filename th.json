@@ -31,6 +31,7 @@
 	"ifc-chat-window-footer-tr-abort-upload": "ยกเลิกการอัปโหลด",
 	"ifc-chat-window-footer-tr-cancel-upload": "ยกเลิก",
 	"ifc-chat-window-footer-tr-send-message": "ส่งข้อความ",
+	"ifc-chat-window-footer-tr-send-button": "ส่ง",
 	"ifc-chat-window-header-tr-settings": "การตั้งค่า",
 	"ifc-chat-window-header-tr-clear-conversation": "การสนทนา ที่ชัดเจน",
 	"ifc-chat-window-header-tr-clear-conversation-body": "คุณแน่ใจหรือว่า ต้องการล้าง การสนทนาทั้งหมด อย่างถาวร? โปรดทราบ ว่ามันจะ ลบข้อความ ทั้งหมดของ การสนทนานี้.",

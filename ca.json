@@ -31,6 +31,7 @@
 	"ifc-chat-window-footer-tr-abort-upload": "Avortar Pujar",
 	"ifc-chat-window-footer-tr-cancel-upload": "Cancel · lar",
 	"ifc-chat-window-footer-tr-send-message": "Enviar missatge",
+	"ifc-chat-window-footer-tr-send-button": "Enviar",
 	"ifc-chat-window-header-tr-settings": "Ajustos",
 	"ifc-chat-window-header-tr-clear-conversation": "Esborrar Conversa",
 	"ifc-chat-window-header-tr-clear-conversation-body": "Esteu segur que voleu esborrar tota la conversa de forma permanent? Recordeu que s'esborraran tots els missatges d'aquesta conversa.",
