@@ -11,7 +11,7 @@
 	"ifc-chat-list-header-mobile-tr-live-chat": "Live Chat",
 	"ifc-chat-list-roster-tr-chat-rooms": "CHAT ROOMS ({roomList, number})",
 	"ifc-chat-list-roster-tr-active-users": "ACTIVE USERS ({userList, number})",
-	"ifc-chat-list-roster-tr-recent-chats": "RECENT CHATS ({recentList, number})",
+	"ifc-chat-list-roster-tr-recent-chats": "MY CHATS ({recentList, number})",
 	"ifc-chat-list-roster-recent-user-tr-delete": "Delete",
 	"ifc-chat-list-roster-recent-user-tr-delete-recent-item": "Delete Recent Item",
 	"ifc-chat-list-roster-recent-user-tr-delete-recent-body": "Are you sure you want to delete this Recent Item permanently?",
