@@ -125,5 +125,16 @@
 	"ifc-chat-disconnect-tr-connecting": "Connexió",
 	"ifc-chat-disconnect-tr-banned": "Vostè està prohibit",
 	"ifc-chat-disconnect-tr-offline": "Vostè està desconnectat",
-	"ifc-chat-window-textbox-tr-type-and-send": "Escriure i enviar missatges.."
+	"ifc-chat-window-textbox-tr-type-and-send": "Escriure i enviar missatges..",
+	"iflc-time-in-year": "fa un any",
+	"ifc-time-in-years": "fa anys",
+	"iflc-time-in-month": "fa mes",
+	"ifc-time-in-months": "fa mesos",
+	"iflc-time-in-day": "fa dies",
+	"ifc-time-in-days": "fa uns dies",
+	"iflc-time-in-hour": "fa hores",
+	"ifc-time-in-hours": "Fa hores",
+	"iflc-time-in-minute": "fa minuts",
+	"ifc-time-in-minutes": "fa uns minuts",
+	"iflc-time-in-second": "ara mateix"
 }
