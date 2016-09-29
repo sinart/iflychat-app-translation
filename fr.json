@@ -125,5 +125,16 @@
 	"ifc-chat-disconnect-tr-connecting": "Mise en relation",
 	"ifc-chat-disconnect-tr-banned": "Vous avez été banni",
 	"ifc-chat-disconnect-tr-offline": "Tu es hors ligne",
-	"ifc-chat-window-textbox-tr-type-and-send": "Votre message..."
+	"ifc-chat-window-textbox-tr-type-and-send": "Votre message...",
+	"ifc-time-in-year": "il y'a un an",
+	"ifc-time-in-years": "il y a des années",
+	"ifc-time-in-month": "il y a un mois",
+	"ifc-time-in-months": "il y a des mois",
+	"ifc-time-in-day": "il y a un jour",
+	"ifc-time-in-days": "Il y a quelques jours",
+	"ifc-time-in-hour": "il y a une heure",
+	"ifc-time-in-hours": "Il y a quelques heures",
+	"ifc-time-in-minute": "une minute auparavant",
+	"ifc-time-in-minutes": "il y a quelques minutes",
+	"ifc-time-in-second": "en ce moment"
 }

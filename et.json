@@ -125,5 +125,16 @@
 	"ifc-chat-disconnect-tr-connecting": "ühinema",
 	"ifc-chat-disconnect-tr-banned": "Sind on keelatud",
 	"ifc-chat-disconnect-tr-offline": "Olete foorumis",
-	"ifc-chat-window-textbox-tr-type-and-send": "Tüüp ja Saada teade.."
+	"ifc-chat-window-textbox-tr-type-and-send": "Tüüp ja Saada teade..",
+	"ifc-time-in-year": "aasta tagasi",
+	"ifc-time-in-years": "aastaid tagasi",
+	"ifc-time-in-month": "kuu aega tagasi",
+	"ifc-time-in-months": "kuud enne",
+	"ifc-time-in-day": "päev tagasi",
+	"ifc-time-in-days": "päeva tagas",
+	"ifc-time-in-hour": "tund tagasi",
+	"ifc-time-in-hours": "tundi tagasi",
+	"ifc-time-in-minute": "minut tagasi",
+	"ifc-time-in-minutes": "minutit tagasi",
+	"ifc-time-in-second": "hetk tagasi"
 }

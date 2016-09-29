@@ -125,5 +125,16 @@
 	"ifc-chat-disconnect-tr-connecting": "Connecting",
 	"ifc-chat-disconnect-tr-banned": "You have been banned",
 	"ifc-chat-disconnect-tr-offline": "You are offline",
-	"ifc-chat-window-textbox-tr-type-and-send": "Type and Send Message.."
+	"ifc-chat-window-textbox-tr-type-and-send": "Type and Send Message..",
+	"ifc-time-in-year": "year ago",
+	"ifc-time-in-years": "years ago",
+	"ifc-time-in-month": "month ago",
+	"ifc-time-in-months": "months ago",
+	"ifc-time-in-day": "day ago",
+	"ifc-time-in-days": "days ago",
+	"ifc-time-in-hour": "hour ago",
+	"ifc-time-in-hours": "hours ago",
+	"ifc-time-in-minute": "minute ago",
+	"ifc-time-in-minutes": "minutes ago",
+	"ifc-time-in-second": "just now"
 }

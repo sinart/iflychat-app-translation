@@ -125,5 +125,16 @@
 	"ifc-chat-disconnect-tr-connecting": "Yhteyden",
 	"ifc-chat-disconnect-tr-banned": "Sinulle on annettu porttikielto",
 	"ifc-chat-disconnect-tr-offline": "Olet offline-tilassa",
-	"ifc-chat-window-textbox-tr-type-and-send": "Tyyppi ja Lähetä viesti.."
+	"ifc-chat-window-textbox-tr-type-and-send": "Tyyppi ja Lähetä viesti..",
+	"ifc-time-in-year": "Vuosi sitten",
+	"ifc-time-in-years": "vuosia sitten",
+	"ifc-time-in-month": "kuukausi sitten",
+	"ifc-time-in-months": "kuukausia sitten",
+	"ifc-time-in-day": "päivä sitten",
+	"ifc-time-in-days": "päiviä sittenpäiviä sitten",
+	"ifc-time-in-hour": "tunti sitten",
+	"ifc-time-in-hours": "tunteja sitten",
+	"ifc-time-in-minute": "minuutti sitten",
+	"ifc-time-in-minutes": "minuuttia sitten",
+	"ifc-time-in-second": "juuri nyt"
 }

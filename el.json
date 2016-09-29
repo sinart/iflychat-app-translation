@@ -125,5 +125,16 @@
 	"ifc-chat-disconnect-tr-connecting": "Συνδετικός",
 	"ifc-chat-disconnect-tr-banned": "Έχεις αποκλειστεί",
 	"ifc-chat-disconnect-tr-offline": "Είσαι offline",
-	"ifc-chat-window-textbox-tr-type-and-send": "Τύπος και Αποστολή Μηνύματος.."
+	"ifc-chat-window-textbox-tr-type-and-send": "Τύπος και Αποστολή Μηνύματος..",
+	"ifc-time-in-year": "ένα χρόνο πριν",
+	"ifc-time-in-years": "πριν από χρόνια",
+	"ifc-time-in-month": "πριν ένα μήνα",
+	"ifc-time-in-months": "μήνες πριν",
+	"ifc-time-in-day": "πριν από την ημέρα",
+	"ifc-time-in-days": "μέρες πριν",
+	"ifc-time-in-hour": "ώρα πριν",
+	"ifc-time-in-hours": "ώρες πριν",
+	"ifc-time-in-minute": "πριν λεπτά",
+	"ifc-time-in-minutes": "λεπτά πριν",
+	"ifc-time-in-second": "μόλις τώρα"
 }

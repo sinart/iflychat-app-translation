@@ -126,15 +126,14 @@
 	"ifc-chat-disconnect-tr-banned": "Du er blevet bandlyst",
 	"ifc-chat-disconnect-tr-offline": "Du er offline",
 	"ifc-chat-window-textbox-tr-type-and-send": "Skriv og sende besked..",
-	"iflc-time-in-year": "år siden",
+	"ifc-time-in-year": "år siden",
 	"ifc-time-in-years": "år siden",
-	"iflc-time-in-month": "måned siden",
+	"ifc-time-in-month": "måned siden",
 	"ifc-time-in-months": "måneder siden",
-	"iflc-time-in-day": "dag siden",
 	"ifc-time-in-days": "dage siden",
-	"iflc-time-in-hour": "time siden",
+	"ifc-time-in-hour": "time siden",
 	"ifc-time-in-hours": "timer siden",
-	"iflc-time-in-minute": "minut siden",
+	"ifc-time-in-minute": "minut siden",
 	"ifc-time-in-minutes": "minutter siden",
-	"iflc-time-in-second": "lige nu"
+	"ifc-time-in-second": "lige nu"
 }
