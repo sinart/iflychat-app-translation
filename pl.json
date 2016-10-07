@@ -125,5 +125,18 @@
 	"ifc-chat-disconnect-tr-connecting": "Złączony",
 	"ifc-chat-disconnect-tr-banned": "Zostałeś zbanowany",
 	"ifc-chat-disconnect-tr-offline": "Jesteś odłączony od sieci",
-	"ifc-chat-window-textbox-tr-type-and-send": "Wpisz i wyślij wiadomość.."
+	"ifc-chat-window-textbox-tr-type-and-send": "Wpisz i wyślij wiadomość..",
+	"ifc-time-in-year": "{number} rok temu",
+	"ifc-time-in-years": "{number} lat temu",
+	"ifc-time-in-month": "{number} miesiąc temu",
+	"ifc-time-in-months": "{number} miesięcy temu",
+	"ifc-time-in-day": "{number} dzień temu",
+	"ifc-time-in-days": "{number} dni temu",
+	"ifc-time-in-hour": "{number} godzinę temu",
+	"ifc-time-in-hours":"{number} godzin temu",
+	"ifc-time-in-minute": "{number} minuta temu",
+	"ifc-time-in-minutes": "{number} minut temu",
+	"ifc-time-in-second": "dopiero co",
+	"ifc-login-message": "Zaloguj się iFlyChat",
+	"ifc-sign-in-message": "Znak jest jako gość"	
 }

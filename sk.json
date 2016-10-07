@@ -125,5 +125,18 @@
 	"ifc-chat-disconnect-tr-connecting": "spojovací",
 	"ifc-chat-disconnect-tr-banned": "Dostali ste ban",
 	"ifc-chat-disconnect-tr-offline": "Ste v režime offline",
-	"ifc-chat-window-textbox-tr-type-and-send": "Sem a poslať správu.."
+	"ifc-chat-window-textbox-tr-type-and-send": "Sem a poslať správu..",
+	"ifc-time-in-year": "{number} rok pred",
+	"ifc-time-in-years": "Pred {number} roky",
+	"ifc-time-in-month": "Pred {number} mesiacom",
+	"ifc-time-in-months": "Pred {number} mesiacmi",
+	"ifc-time-in-day": "Pred {number} deň",
+	"ifc-time-in-days": "{number} dní pred",
+	"ifc-time-in-hour": "{number} hodinu pred",
+	"ifc-time-in-hours":"{number} hodín pred",
+	"ifc-time-in-minute": "{number} minút pred",
+	"ifc-time-in-minutes": "{number} minút pred",
+	"ifc-time-in-second": "práve teraz",
+	"ifc-login-message": "prihlásiť sa iFlyChat",
+	"ifc-sign-in-message": "prihláste sa ako hosť"	
 }

@@ -125,5 +125,18 @@
 	"ifc-chat-disconnect-tr-connecting": "Menghubungkan",
 	"ifc-chat-disconnect-tr-banned": "kamu di blokir",
 	"ifc-chat-disconnect-tr-offline": "Anda sedang offline",
-	"ifc-chat-window-textbox-tr-type-and-send": "Ketik dan Kirim Pesan.."
+	"ifc-chat-window-textbox-tr-type-and-send": "Ketik dan Kirim Pesan..",
+	"ifc-time-in-year": "{number} tahun yang lalu",
+	"ifc-time-in-years": "{number} tahun yang lalu",
+	"ifc-time-in-month": "{number} bulan lalu",
+	"ifc-time-in-months": "{number} bulan lalu",
+	"ifc-time-in-day": "{number} hari yang lalu",
+	"ifc-time-in-days": "{number} hari yang lalu",
+	"ifc-time-in-hour": "{number} jam yang lalu",
+	"ifc-time-in-hours":"{number} jam yang lalu",
+	"ifc-time-in-minute": "{number} menit yang lalu",
+	"ifc-time-in-minutes": "{number} menit yang lalu",
+	"ifc-time-in-second": "baru tadi",
+	"ifc-login-message": "login dengan iFlyChat",
+	"ifc-sign-in-message": "masuk sebagai tamu"
 }

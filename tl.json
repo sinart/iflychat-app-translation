@@ -125,5 +125,18 @@
 	"ifc-chat-disconnect-tr-connecting": "pagkonekta",
 	"ifc-chat-disconnect-tr-banned": "Pinagbawalan ka na",
 	"ifc-chat-disconnect-tr-offline": "ikaw ay offline",
-	"ifc-chat-window-textbox-tr-type-and-send": "Ilagay mo at Magpadala ng Mensahe.."
+	"ifc-chat-window-textbox-tr-type-and-send": "Ilagay mo at Magpadala ng Mensahe..",
+	"ifc-time-in-year": "{number} taon bago",
+	"ifc-time-in-years": "{number} taon bago",
+	"ifc-time-in-month": "{number} buwan bago",
+	"ifc-time-in-months": "{number} buwan bago",
+	"ifc-time-in-day": "{number} araw bago",
+	"ifc-time-in-days": "{number} araw bago",
+	"ifc-time-in-hour": "{number} oras bago",
+	"ifc-time-in-hours":"{number} oras bago",
+	"ifc-time-in-minute": "{number} minuto bago",
+	"ifc-time-in-minutes": "{number} minuto bago",
+	"ifc-time-in-second": "ngayon lang",
+	"ifc-login-message": "login gamit iFlyChat",
+	"ifc-sign-in-message": "mag-sign in bilang guest"
 }

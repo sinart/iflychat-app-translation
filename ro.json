@@ -125,5 +125,18 @@
 	"ifc-chat-disconnect-tr-connecting": "conectare",
 	"ifc-chat-disconnect-tr-banned": "Ați fost interzis",
 	"ifc-chat-disconnect-tr-offline": "Esti deconectat",
-	"ifc-chat-window-textbox-tr-type-and-send": "Tipul și Trimite mesaj.."
+	"ifc-chat-window-textbox-tr-type-and-send": "Tipul și Trimite mesaj..",
+	"ifc-time-in-year": "{number} an in urma",
+	"ifc-time-in-years": "acum {number} ani",
+	"ifc-time-in-month": "{number} lună",
+	"ifc-time-in-months": "acum {number} luni",
+	"ifc-time-in-day": "{number} zi în urmă",
+	"ifc-time-in-days": "{number} zile în urmă",
+	"ifc-time-in-hour": "{number} oră în urmă",
+	"ifc-time-in-hours":"acum {number} ore",
+	"ifc-time-in-minute": "{number} minut în urmă",
+	"ifc-time-in-minutes": "acum {number} minute",
+	"ifc-time-in-second": "chiar acum",
+	"ifc-login-message": "semneze cu iFlyChat",
+	"ifc-sign-in-message": "sign in calitate de invitat"
 }

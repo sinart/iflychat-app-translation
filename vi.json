@@ -125,5 +125,18 @@
 	"ifc-chat-disconnect-tr-connecting": "Kết nối",
 	"ifc-chat-disconnect-tr-banned": "Bạn đã bị cấm",
 	"ifc-chat-disconnect-tr-offline": "Bạn đang offline",
-	"ifc-chat-window-textbox-tr-type-and-send": "Soạn và Gửi tin nhắn.."
+	"ifc-chat-window-textbox-tr-type-and-send": "Soạn và Gửi tin nhắn..",
+	"ifc-time-in-year": "{number} năm trước",
+	"ifc-time-in-years": "{number} năm trước",
+	"ifc-time-in-month": "{number} tháng trước",
+	"ifc-time-in-months": "{number} tháng trước",
+	"ifc-time-in-day": "{number} ngày trước",
+	"ifc-time-in-days": "{number} ngày trước",
+	"ifc-time-in-hour": "{number} giờ trước",
+	"ifc-time-in-hours":"{number} giờ trước",
+	"ifc-time-in-minute": "{number} phút trước",
+	"ifc-time-in-minutes": "{number} phút trước",
+	"ifc-time-in-second": "chỉ cần bây giờ",
+	"ifc-login-message": "đăng nhập với iFlyChat",
+	"ifc-sign-in-message": "đăng nhập như của khách"
 }

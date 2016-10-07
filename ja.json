@@ -125,5 +125,18 @@
 	"ifc-chat-disconnect-tr-connecting": "接続します",
 	"ifc-chat-disconnect-tr-banned": "あなたが禁止されています",
 	"ifc-chat-disconnect-tr-offline": "あなたがオフラインになっています",
-	"ifc-chat-window-textbox-tr-type-and-send": "入力し、メッセージを送信.."
+	"ifc-chat-window-textbox-tr-type-and-send": "入力し、メッセージを送信..",
+	"ifc-time-in-year": "{number} 年前",
+	"ifc-time-in-years": "{number} 年前",
+	"ifc-time-in-month": "{number} ヶ月前",
+	"ifc-time-in-months": "{number} ヶ月前",
+	"ifc-time-in-day": "{number} 日前",
+	"ifc-time-in-days": "{number} 日前",
+	"ifc-time-in-hour": "{number} 時間前",
+	"ifc-time-in-hours":"{number} 時間前",
+	"ifc-time-in-minute": "{number} 分前",
+	"ifc-time-in-minutes": "{number} 分前",
+	"ifc-time-in-second": "今が今",
+	"ifc-login-message": "iFlyChatでログイン",
+	"ifc-sign-in-message": "ゲストとしてログイン"
 }

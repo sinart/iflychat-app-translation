@@ -125,5 +125,18 @@
 	"ifc-chat-disconnect-tr-connecting": "연결",
 	"ifc-chat-disconnect-tr-banned": "당신은 금지 된",
 	"ifc-chat-disconnect-tr-offline": "당신은 오프라인",
-	"ifc-chat-window-textbox-tr-type-and-send": "입력 한 메시지 보내기.."
+	"ifc-chat-window-textbox-tr-type-and-send": "입력 한 메시지 보내기..",
+	"ifc-time-in-year": "{number} 년 전",
+	"ifc-time-in-years": "{number} 년 ago",
+	"ifc-time-in-month": "{number} 개월 전",
+	"ifc-time-in-months": "{number} 개월 전",
+	"ifc-time-in-day": "{number} 일 전",
+	"ifc-time-in-days": "{number} 구일 전",
+	"ifc-time-in-hour": "{number} 시간 전",
+	"ifc-time-in-hours":"{number} 시간 전",
+	"ifc-time-in-minute": "{number} 분 전",
+	"ifc-time-in-minutes": "{number} 몇분 전에",
+	"ifc-time-in-second": "방금",
+	"ifc-login-message": "iFlyChat 에 로그인",
+	"ifc-sign-in-message": "손님으로 로그인"	
 }
