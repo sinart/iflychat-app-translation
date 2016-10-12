@@ -137,6 +137,6 @@
 	"ifc-time-in-minute": "{number} dakika önce",
 	"ifc-time-in-minutes": "{number} dakika önce",
 	"ifc-time-in-second": "Şu anda",
-	"ifc-login-message": "iFlyChat iflychat ile oturum",
+	"ifc-login-message": "{siteName} ile oturum",
 	"ifc-sign-in-message": "Misafir olarak oturum"
 }

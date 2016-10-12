@@ -137,6 +137,6 @@
 	"ifc-time-in-minute": "Πριν από {number} λεπτό",
 	"ifc-time-in-minutes": "Πριν από {number} λεπτά",
 	"ifc-time-in-second": "μόλις τώρα",
-	"ifc-login-message": "συνδεθείτε με iFlyChat",
+	"ifc-login-message": "συνδεθείτε με {siteNmae}",
 	"ifc-sign-in-message": "Συνδεθείτε ως Επισκέπτης"
 }

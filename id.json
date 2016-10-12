@@ -137,6 +137,6 @@
 	"ifc-time-in-minute": "{number} menit yang lalu",
 	"ifc-time-in-minutes": "{number} menit yang lalu",
 	"ifc-time-in-second": "baru tadi",
-	"ifc-login-message": "login dengan iFlyChat",
+	"ifc-login-message": "login dengan {siteName}",
 	"ifc-sign-in-message": "masuk sebagai tamu"
 }

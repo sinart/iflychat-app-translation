@@ -137,6 +137,6 @@
 	"ifc-time-in-minute": "{number} minut sedan",
 	"ifc-time-in-minutes": "{number} minuter sedan",
 	"ifc-time-in-second": "precis nu",
-	"ifc-login-message": "logga in med iFlyChat",
-	"ifc-sign-in-message": "logga in som gäst"	
+	"ifc-login-message": "logga in med {siteName}",
+	"ifc-sign-in-message": "logga in som gäst"
 }

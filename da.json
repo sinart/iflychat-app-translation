@@ -137,6 +137,6 @@
 	"ifc-time-in-minute": "{number} minut siden",
 	"ifc-time-in-minutes": "{number} minutter siden",
 	"ifc-time-in-second": "lige nu",
-	"ifc-login-message": "log med iFlyChat",
+	"ifc-login-message": "log med {siteName}",
 	"ifc-sign-in-message": "Log ind som gæst"
 }

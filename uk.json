@@ -137,6 +137,6 @@
 	"ifc-time-in-minute": "{number} хвилину тому",
 	"ifc-time-in-minutes": "{number} хвилини тому",
 	"ifc-time-in-second": "прямо зараз",
-	"ifc-login-message": "Увійти з iFlyChat",
+	"ifc-login-message": "Увійти з {siteName}",
 	"ifc-sign-in-message": "Увійдіть як гість"
 }

@@ -137,6 +137,6 @@
 	"ifc-time-in-minute": "{number} giorno fa",
 	"ifc-time-in-minutes": "{number} minuti fa",
 	"ifc-time-in-second": "proprio ora",
-	"ifc-login-message": "login con iFlyChat",
+	"ifc-login-message": "login con {siteName}",
 	"ifc-sign-in-message": "Entra come ospite"
 }

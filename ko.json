@@ -137,6 +137,6 @@
 	"ifc-time-in-minute": "{number} 분 전",
 	"ifc-time-in-minutes": "{number} 몇분 전에",
 	"ifc-time-in-second": "방금",
-	"ifc-login-message": "iFlyChat 에 로그인",
-	"ifc-sign-in-message": "손님으로 로그인"	
+	"ifc-login-message": "{siteName} 에 로그인",
+	"ifc-sign-in-message": "손님으로 로그인"
 }

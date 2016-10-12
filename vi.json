@@ -137,6 +137,6 @@
 	"ifc-time-in-minute": "{number} phút trước",
 	"ifc-time-in-minutes": "{number} phút trước",
 	"ifc-time-in-second": "chỉ cần bây giờ",
-	"ifc-login-message": "đăng nhập với iFlyChat",
+	"ifc-login-message": "đăng nhập với {siteName}",
 	"ifc-sign-in-message": "đăng nhập như của khách"
 }

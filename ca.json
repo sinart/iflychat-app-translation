@@ -137,6 +137,6 @@
 	"ifc-time-in-minute": "fa {number} minuts",
 	"ifc-time-in-minutes": "fa {number} minuts",
 	"ifc-time-in-second": "ara mateix",
-	"ifc-login-message": "iniciar la sessió com iFlyChat",
+	"ifc-login-message": "iniciar la sessió com {siteName}",
 	"ifc-sign-in-message": "Inicia sessió com a convidat"
 }

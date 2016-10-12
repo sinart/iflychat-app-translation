@@ -137,6 +137,6 @@
 	"ifc-time-in-minute": "{number} minut tagasi",
 	"ifc-time-in-minutes": "{number} minutit tagasi",
 	"ifc-time-in-second": "hetk tagasi",
-	"ifc-login-message": "sisse logima iFlyChat",
+	"ifc-login-message": "sisse logima {siteName}",
 	"ifc-sign-in-message": "login külaline"
 }

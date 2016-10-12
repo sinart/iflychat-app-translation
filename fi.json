@@ -137,6 +137,6 @@
 	"ifc-time-in-minute": "{number} minuutti sitten",
 	"ifc-time-in-minutes": "{number} minuuttia sitten",
 	"ifc-time-in-second": "juuri nyt",
-	"ifc-login-message": "kirjautuminen iFlyChat",
+	"ifc-login-message": "kirjautuminen {siteName}",
 	"ifc-sign-in-message": "kirjautua vieraana"
 }

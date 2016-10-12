@@ -137,6 +137,6 @@
 	"ifc-time-in-minute": "{number} minuto pred",
 	"ifc-time-in-minutes": "{number} minuti pred",
 	"ifc-time-in-second": "pravkar",
-	"ifc-login-message": "Prijavi se z iFlyChat",
-	"ifc-sign-in-message": "prijavite kot gost"	
+	"ifc-login-message": "Prijavi se z {siteName}",
+	"ifc-sign-in-message": "prijavite kot gost"
 }

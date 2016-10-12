@@ -137,6 +137,6 @@
 	"ifc-time-in-minute": "{number} uur geleden",
 	"ifc-time-in-minutes": "{number} minuten geleden",
 	"ifc-time-in-second": "zoëven",
-	"ifc-login-message": "inloggen met iFlyChat",
+	"ifc-login-message": "inloggen met {siteName}",
 	"ifc-sign-in-message": "aanmelden als gast"
 }

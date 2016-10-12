@@ -137,6 +137,6 @@
 	"ifc-time-in-minute": "{number} minuto bago",
 	"ifc-time-in-minutes": "{number} minuto bago",
 	"ifc-time-in-second": "ngayon lang",
-	"ifc-login-message": "login gamit iFlyChat",
+	"ifc-login-message": "login gamit {siteName}",
 	"ifc-sign-in-message": "mag-sign in bilang guest"
 }

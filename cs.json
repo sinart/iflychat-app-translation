@@ -137,6 +137,6 @@
 	"ifc-time-in-minute": "před {number} minutou",
 	"ifc-time-in-minutes": "před {number} minutami",
 	"ifc-time-in-second": "právě teď",
-	"ifc-login-message": "Přihlášení s iFlyChat",
-	"ifc-sign-in-message": "přihlaste se jako host"	
+	"ifc-login-message": "Přihlášení s {siteName}",
+	"ifc-sign-in-message": "přihlaste se jako host"
 }

@@ -137,6 +137,6 @@
 	"ifc-time-in-minute": "{number} perce",
 	"ifc-time-in-minutes": "{number} perce",
 	"ifc-time-in-second": "éppen most",
-	"ifc-login-message": "bejelentkezni iFlyChat",
+	"ifc-login-message": "bejelentkezni {siteName}",
 	"ifc-sign-in-message": "vendég bejelentkezés"
 }

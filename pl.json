@@ -137,6 +137,6 @@
 	"ifc-time-in-minute": "{number} minuta temu",
 	"ifc-time-in-minutes": "{number} minut temu",
 	"ifc-time-in-second": "dopiero co",
-	"ifc-login-message": "Zaloguj się iFlyChat",
-	"ifc-sign-in-message": "Znak jest jako gość"	
+	"ifc-login-message": "Zaloguj się {siteName}",
+	"ifc-sign-in-message": "Znak jest jako gość"
 }

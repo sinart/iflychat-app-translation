@@ -137,6 +137,6 @@
 	"ifc-time-in-minute": "{number} minut în urmă",
 	"ifc-time-in-minutes": "acum {number} minute",
 	"ifc-time-in-second": "chiar acum",
-	"ifc-login-message": "semneze cu iFlyChat",
+	"ifc-login-message": "semneze cu {siteName}",
 	"ifc-sign-in-message": "sign in calitate de invitat"
 }

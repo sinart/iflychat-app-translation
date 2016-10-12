@@ -137,6 +137,6 @@
 	"ifc-time-in-minute": "{number} นาทีที่ผ่านมา",
 	"ifc-time-in-minutes": "{number} นาทีที่ผ่านมา",
 	"ifc-time-in-second": "เมื่อกี้",
-	"ifc-login-message": "เข้าสู่ระบบด้วย iFlyChat",
-	"ifc-sign-in-message": "ลงชื่อเข้าใช้ในฐานะแขก"	
+	"ifc-login-message": "เข้าสู่ระบบด้วย {siteName}",
+	"ifc-sign-in-message": "ลงชื่อเข้าใช้ในฐานะแขก"
 }
