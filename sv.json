@@ -125,5 +125,18 @@
 	"ifc-chat-disconnect-tr-connecting": "Ansluta",
 	"ifc-chat-disconnect-tr-banned": "Du har förbjudits",
 	"ifc-chat-disconnect-tr-offline": "Du är offline",
-	"ifc-chat-window-textbox-tr-type-and-send": "Skriv och skicka meddelande.."
+	"ifc-chat-window-textbox-tr-type-and-send": "Skriv och skicka meddelande..",
+	"ifc-time-in-year": "{number} år sedan",
+	"ifc-time-in-years": "{number} år sedan",
+	"ifc-time-in-month": "{number} månad sedan",
+	"ifc-time-in-months": "{number} månader sedan",
+	"ifc-time-in-day": "{number} dag sedan",
+	"ifc-time-in-days": "{number} dagar sedan",
+	"ifc-time-in-hour": "{number} timme sedan",
+	"ifc-time-in-hours":"{number} timmar sedan",
+	"ifc-time-in-minute": "{number} minut sedan",
+	"ifc-time-in-minutes": "{number} minuter sedan",
+	"ifc-time-in-second": "precis nu",
+	"ifc-login-message": "logga in med {siteName}",
+	"ifc-sign-in-message": "logga in som gäst"
 }

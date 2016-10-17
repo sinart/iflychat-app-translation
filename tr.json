@@ -125,5 +125,18 @@
 	"ifc-chat-disconnect-tr-connecting": "bağlantı",
 	"ifc-chat-disconnect-tr-banned": "Engellendiniz",
 	"ifc-chat-disconnect-tr-offline": "Çevrimdışısınız",
-	"ifc-chat-window-textbox-tr-type-and-send": "Yazın ve Mesaj gönder.."
+	"ifc-chat-window-textbox-tr-type-and-send": "Yazın ve Mesaj gönder..",
+	"ifc-time-in-year": "{number} yıl önce",
+	"ifc-time-in-years": "{number} yıl önce",
+	"ifc-time-in-month": "{number} ay önce",
+	"ifc-time-in-months": "{number} ay önce",
+	"ifc-time-in-day": "{number} gün önce",
+	"ifc-time-in-days": "{number} gün önce",
+	"ifc-time-in-hour": "{number} saat önce",
+	"ifc-time-in-hours":"{number} saat önce",
+	"ifc-time-in-minute": "{number} dakika önce",
+	"ifc-time-in-minutes": "{number} dakika önce",
+	"ifc-time-in-second": "Şu anda",
+	"ifc-login-message": "{siteName} ile oturum",
+	"ifc-sign-in-message": "Misafir olarak oturum"
 }

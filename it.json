@@ -125,5 +125,18 @@
 	"ifc-chat-disconnect-tr-connecting": "Collegamento",
 	"ifc-chat-disconnect-tr-banned": "Sei stato escluso",
 	"ifc-chat-disconnect-tr-offline": "Sei offline",
-	"ifc-chat-window-textbox-tr-type-and-send": "Digitare e inviare il messaggio.."
+	"ifc-chat-window-textbox-tr-type-and-send": "Digitare e inviare il messaggio..","ifc-time-in-year": "{number} year ago",
+	"ifc-time-in-year": "{number} anno fa",
+	"ifc-time-in-years": "{number} anni fa",
+	"ifc-time-in-month": "{number} mese fa",
+	"ifc-time-in-months": "{number} mesi fa",
+	"ifc-time-in-day": "{number} giorno fa",
+	"ifc-time-in-days": "{number} giorni fa",
+	"ifc-time-in-hour": "{number} ora fa",
+	"ifc-time-in-hours":"{number} ore fa",
+	"ifc-time-in-minute": "{number} giorno fa",
+	"ifc-time-in-minutes": "{number} minuti fa",
+	"ifc-time-in-second": "proprio ora",
+	"ifc-login-message": "login con {siteName}",
+	"ifc-sign-in-message": "Entra come ospite"
 }

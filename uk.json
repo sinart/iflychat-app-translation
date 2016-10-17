@@ -125,5 +125,18 @@
 	"ifc-chat-disconnect-tr-connecting": "з'єднувальний",
 	"ifc-chat-disconnect-tr-banned": "Вас забанили",
 	"ifc-chat-disconnect-tr-offline": "ви знаходяться відсутня",
-	"ifc-chat-window-textbox-tr-type-and-send": "Тип і Надіслати повідомлення.."
+	"ifc-chat-window-textbox-tr-type-and-send": "Тип і Надіслати повідомлення..",
+	"ifc-time-in-year": "{number} рік тому",
+	"ifc-time-in-years": "{number} роки назад",
+	"ifc-time-in-month": "{number} місяць тому",
+	"ifc-time-in-months": "{number} місяці тому",
+	"ifc-time-in-day": "{number} день тому",
+	"ifc-time-in-days": "{number} дні тому",
+	"ifc-time-in-hour": "{number} день тому",
+	"ifc-time-in-hours":"{number} години тому",
+	"ifc-time-in-minute": "{number} хвилину тому",
+	"ifc-time-in-minutes": "{number} хвилини тому",
+	"ifc-time-in-second": "прямо зараз",
+	"ifc-login-message": "Увійти з {siteName}",
+	"ifc-sign-in-message": "Увійдіть як гість"
 }

@@ -125,5 +125,18 @@
 	"ifc-chat-disconnect-tr-connecting": "Соединение",
 	"ifc-chat-disconnect-tr-banned": "Вы были забанены!",
 	"ifc-chat-disconnect-tr-offline": "Не в сети",
-	"ifc-chat-window-textbox-tr-type-and-send": "Наберите сообщение.."
+	"ifc-chat-window-textbox-tr-type-and-send": "Наберите сообщение..",
+	"ifc-time-in-year": "{number} год назад",
+	"ifc-time-in-years": "{number} лет назад",
+	"ifc-time-in-month": "{number} месяц назад",
+	"ifc-time-in-months": "{number} месяцев назад",
+	"ifc-time-in-day": "{number} день назад",
+	"ifc-time-in-days": "{number} дня назад",
+	"ifc-time-in-hour": "{number} час назад",
+	"ifc-time-in-hours":"{number} часа назад",
+	"ifc-time-in-minute": "{number} минуту назад",
+	"ifc-time-in-minutes": "{number} минуты назад",
+	"ifc-time-in-second": "сейчас",
+	"ifc-login-message": "Войти с {siteName}",
+	"ifc-sign-in-message": "войдите в систему как гость"
 }

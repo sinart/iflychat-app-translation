@@ -125,5 +125,18 @@
 	"ifc-chat-disconnect-tr-connecting": "összekapcsol",
 	"ifc-chat-disconnect-tr-banned": "Ki lettél tiltva",
 	"ifc-chat-disconnect-tr-offline": "Nem Elérhető vagy",
-	"ifc-chat-window-textbox-tr-type-and-send": "Írja és Üzenet.."
+	"ifc-chat-window-textbox-tr-type-and-send": "Írja és Üzenet..",
+	"ifc-time-in-year": "{number} évvel ezelőtt",
+	"ifc-time-in-years": "{number} éve",
+	"ifc-time-in-month": "{number} hónapja",
+	"ifc-time-in-months": "{number} hónappal ezelőtt",
+	"ifc-time-in-day": "{number} napja",
+	"ifc-time-in-days": "{number} nappal ezelőtt",
+	"ifc-time-in-hour": "{number} órával ezelőtt",
+	"ifc-time-in-hours": "{number} órával ezelőtt",
+	"ifc-time-in-minute": "{number} perce",
+	"ifc-time-in-minutes": "{number} perce",
+	"ifc-time-in-second": "éppen most",
+	"ifc-login-message": "bejelentkezni {siteName}",
+	"ifc-sign-in-message": "vendég bejelentkezés"
 }

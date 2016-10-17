@@ -125,5 +125,18 @@
 	"ifc-chat-disconnect-tr-connecting": "Povezovanje",
 	"ifc-chat-disconnect-tr-banned": "Ti so bili prepovedani",
 	"ifc-chat-disconnect-tr-offline": "Ste offline",
-	"ifc-chat-window-textbox-tr-type-and-send": "Tip in Pošlji sporočilo.."
+	"ifc-chat-window-textbox-tr-type-and-send": "Tip in Pošlji sporočilo..",
+	"ifc-time-in-year": "{number} leto nazaj",
+	"ifc-time-in-years": "{number} leta nazaj",
+	"ifc-time-in-month": "pred {number} mesecem",
+	"ifc-time-in-months": "Pred {number} meseci",
+	"ifc-time-in-day": "{number} dan nazaj",
+	"ifc-time-in-days": "{number} dni nazaj",
+	"ifc-time-in-hour": "{number} uro pred",
+	"ifc-time-in-hours":"{number} uri pred",
+	"ifc-time-in-minute": "{number} minuto pred",
+	"ifc-time-in-minutes": "{number} minuti pred",
+	"ifc-time-in-second": "pravkar",
+	"ifc-login-message": "Prijavi se z {siteName}",
+	"ifc-sign-in-message": "prijavite kot gost"
 }

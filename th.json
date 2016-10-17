@@ -125,5 +125,18 @@
 	"ifc-chat-disconnect-tr-connecting": "การเชื่อมต่อ",
 	"ifc-chat-disconnect-tr-banned": "คุณ ไม่ได้รับอนุญาต",
 	"ifc-chat-disconnect-tr-offline": "คุณออฟไลน์",
-	"ifc-chat-window-textbox-tr-type-and-send": "พิมพ์ และส่งข้อความ.."
+	"ifc-chat-window-textbox-tr-type-and-send": "พิมพ์ และส่งข้อความ..",
+	"ifc-time-in-year": "{number} ปีที่แล้ว",
+	"ifc-time-in-years": "{number} ปีที่แล้ว",
+	"ifc-time-in-month": "{number} เดือนที่แล้ว",
+	"ifc-time-in-months": "{number} เดือนที่ผ่านมา",
+	"ifc-time-in-day": "{number} วันที่ผ่านมา",
+	"ifc-time-in-days": "{number} วันที่ผ่านมา",
+	"ifc-time-in-hour": "{number} ชั่วโมงที่แล้ว",
+	"ifc-time-in-hours":"{number} ชั่วโมงที่ผ่านมา",
+	"ifc-time-in-minute": "{number} นาทีที่ผ่านมา",
+	"ifc-time-in-minutes": "{number} นาทีที่ผ่านมา",
+	"ifc-time-in-second": "เมื่อกี้",
+	"ifc-login-message": "เข้าสู่ระบบด้วย {siteName}",
+	"ifc-sign-in-message": "ลงชื่อเข้าใช้ในฐานะแขก"
 }

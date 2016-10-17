@@ -125,5 +125,18 @@
 	"ifc-chat-disconnect-tr-connecting": "Tilkobling",
 	"ifc-chat-disconnect-tr-banned": "Du har blitt bannlyst",
 	"ifc-chat-disconnect-tr-offline": "Du er ikke pålogget",
-	"ifc-chat-window-textbox-tr-type-and-send": "Skriv og Send melding.."
+	"ifc-chat-window-textbox-tr-type-and-send": "Skriv og Send melding..",
+	"ifc-time-in-year": "{number} år siden",
+	"ifc-time-in-years": "{number} år siden",
+	"ifc-time-in-month": "{number} måned siden",
+	"ifc-time-in-months": "{number} måneder siden",
+	"ifc-time-in-day": "{number} dag siden",
+	"ifc-time-in-days": "{number} dager siden",
+	"ifc-time-in-hour": "{number} time siden",
+	"ifc-time-in-hours":"{number} timer siden",
+	"ifc-time-in-minute": "{number} minutt siden",
+	"ifc-time-in-minutes": "{number} minutter siden",
+	"ifc-time-in-second": "akkurat nå",
+	"ifc-login-message": "Logg inn med {siteName}",
+	"ifc-sign-in-message": "logge på som gjest"
 }

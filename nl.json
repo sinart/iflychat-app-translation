@@ -125,5 +125,18 @@
 	"ifc-chat-disconnect-tr-connecting": "Verbinden",
 	"ifc-chat-disconnect-tr-banned": "Je bent verbannen",
 	"ifc-chat-disconnect-tr-offline": "Je bent offline",
-	"ifc-chat-window-textbox-tr-type-and-send": "Typ en verzend Bericht.."
+	"ifc-chat-window-textbox-tr-type-and-send": "Typ en verzend Bericht..",
+	"ifc-time-in-year": "{number} jaar geleden",
+	"ifc-time-in-years": "{number} jaar geleden",
+	"ifc-time-in-month": "{number} maand geleden",
+	"ifc-time-in-months": "{number} maanden geleden",
+	"ifc-time-in-day": "{number} dag geleden",
+	"ifc-time-in-days": "{number} dagen geleden",
+	"ifc-time-in-hour": "{number} uur geleden",
+	"ifc-time-in-hours":"{number} uur geleden",
+	"ifc-time-in-minute": "{number} uur geleden",
+	"ifc-time-in-minutes": "{number} minuten geleden",
+	"ifc-time-in-second": "zoëven",
+	"ifc-login-message": "inloggen met {siteName}",
+	"ifc-sign-in-message": "aanmelden als gast"
 }
