@@ -138,5 +138,7 @@
 	"ifc-time-in-minutes": "fa {number} minuts",
 	"ifc-time-in-second": "ara mateix",
 	"ifc-login-message": "iniciar la sessió com {siteName}",
-	"ifc-sign-in-message": "Inicia sessió com a convidat"
+	"ifc-sign-in-message": "Inicia sessió com a convidat",
+	"ifc-open-chat-in-new-tab": "s'obre en una nova pestanya",
+	"ifc-user": "vostè"
 }

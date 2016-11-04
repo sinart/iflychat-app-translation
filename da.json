@@ -138,5 +138,7 @@
 	"ifc-time-in-minutes": "{number} minutter siden",
 	"ifc-time-in-second": "lige nu",
 	"ifc-login-message": "log med {siteName}",
-	"ifc-sign-in-message": "Log ind som gæst"
+	"ifc-sign-in-message": "Log ind som gæst",
+	"ifc-open-chat-in-new-tab": "åben i et nyt faneblad",
+	"ifc-user": "You"
 }

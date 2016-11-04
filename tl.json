@@ -138,5 +138,7 @@
 	"ifc-time-in-minutes": "{number} minuto bago",
 	"ifc-time-in-second": "ngayon lang",
 	"ifc-login-message": "login gamit {siteName}",
-	"ifc-sign-in-message": "mag-sign in bilang guest"
+	"ifc-sign-in-message": "mag-sign in bilang guest",
+	"ifc-open-chat-in-new-tab": "mag-sign in bilang isang bisita",
+	"ifc-user": "ka"
 }

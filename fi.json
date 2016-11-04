@@ -138,5 +138,7 @@
 	"ifc-time-in-minutes": "{number} minuuttia sitten",
 	"ifc-time-in-second": "juuri nyt",
 	"ifc-login-message": "kirjautuminen {siteName}",
-	"ifc-sign-in-message": "kirjautua vieraana"
+	"ifc-sign-in-message": "kirjautua vieraana",
+	"ifc-open-chat-in-new-tab": "Avaa uusi välilehti",
+	"ifc-user": "teitä"
 }

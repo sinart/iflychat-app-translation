@@ -138,5 +138,7 @@
 	"ifc-time-in-minutes": "vor {number} Minuten",
 	"ifc-time-in-second": "gerade jetzt",
 	"ifc-login-message": "loggen Sie sich mit {siteName}",
-	"ifc-sign-in-message": "melden Sie sich als Gast"
+	"ifc-sign-in-message": "melden Sie sich als Gast",
+	"ifc-open-chat-in-new-tab": "in einem neuen Tab öffnen",
+	"ifc-user": "Sie"
 }

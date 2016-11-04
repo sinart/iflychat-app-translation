@@ -138,5 +138,7 @@
 	"ifc-time-in-minutes": "{number} minuter sedan",
 	"ifc-time-in-second": "precis nu",
 	"ifc-login-message": "logga in med {siteName}",
-	"ifc-sign-in-message": "logga in som gäst"
+	"ifc-sign-in-message": "logga in som gäst",
+	"ifc-open-chat-in-new-tab": "Öppna i en ny flik",
+	"ifc-user": "du"
 }

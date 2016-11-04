@@ -138,5 +138,7 @@
 	"ifc-time-in-minutes": "Πριν από {number} λεπτά",
 	"ifc-time-in-second": "μόλις τώρα",
 	"ifc-login-message": "συνδεθείτε με {siteNmae}",
-	"ifc-sign-in-message": "Συνδεθείτε ως Επισκέπτης"
+	"ifc-sign-in-message": "Συνδεθείτε ως Επισκέπτης",
+	"ifc-open-chat-in-new-tab": "ανοίγει σε νέα καρτέλα",
+	"ifc-user": "εσείς"
 }
