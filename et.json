@@ -138,5 +138,7 @@
 	"ifc-time-in-minutes": "{number} minutit tagasi",
 	"ifc-time-in-second": "hetk tagasi",
 	"ifc-login-message": "sisse logima {siteName}",
-	"ifc-sign-in-message": "login külaline"
+	"ifc-sign-in-message": "login külaline",
+	"ifc-open-chat-in-new-tab": "Ava uus kaart",
+	"ifc-user": "sa"
 }

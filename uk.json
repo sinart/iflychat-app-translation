@@ -138,5 +138,7 @@
 	"ifc-time-in-minutes": "{number} хвилини тому",
 	"ifc-time-in-second": "прямо зараз",
 	"ifc-login-message": "Увійти з {siteName}",
-	"ifc-sign-in-message": "Увійдіть як гість"
+	"ifc-sign-in-message": "Увійдіть як гість",
+	"ifc-open-chat-in-new-tab": "відкрити в новій вкладці",
+	"ifc-user": "ви"
 }

@@ -138,5 +138,7 @@
 	"ifc-time-in-minutes": "{number} 分前",
 	"ifc-time-in-second": "今が今",
 	"ifc-login-message": "{siteName}でログイン",
-	"ifc-sign-in-message": "ゲストとしてログイン"
+	"ifc-sign-in-message": "ゲストとしてログイン",
+	"ifc-open-chat-in-new-tab": "新しいタブで開きます",
+	"ifc-user": "君"
 }

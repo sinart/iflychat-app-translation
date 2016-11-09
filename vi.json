@@ -138,5 +138,7 @@
 	"ifc-time-in-minutes": "{number} phút trước",
 	"ifc-time-in-second": "chỉ cần bây giờ",
 	"ifc-login-message": "đăng nhập với {siteName}",
-	"ifc-sign-in-message": "đăng nhập như của khách"
+	"ifc-sign-in-message": "đăng nhập như của khách",
+	"ifc-open-chat-in-new-tab": "mở trong một tab mới",
+	"ifc-user": "ông"
 }

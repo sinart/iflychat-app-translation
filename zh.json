@@ -138,5 +138,7 @@
 	"ifc-time-in-minutes": "{number} 分钟前",
 	"ifc-time-in-second": "现在",
 	"ifc-login-message": "与{siteName}登录",
-	"ifc-sign-in-message": "登录为来宾"
+	"ifc-sign-in-message": "登录为来宾",
+	"ifc-open-chat-in-new-tab": "在新标签中打开",
+	"ifc-user": "您"
 }

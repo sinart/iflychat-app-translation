@@ -138,5 +138,7 @@
 	"ifc-time-in-minutes": "před {number} minutami",
 	"ifc-time-in-second": "právě teď",
 	"ifc-login-message": "Přihlášení s {siteName}",
-	"ifc-sign-in-message": "přihlaste se jako host"
+	"ifc-sign-in-message": "přihlaste se jako host",
+	"ifc-open-chat-in-new-tab": "se otevře na nové kartě",
+	"ifc-user": "vy"
 }

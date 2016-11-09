@@ -138,5 +138,7 @@
 	"ifc-time-in-minutes": "{number} minuti fa",
 	"ifc-time-in-second": "proprio ora",
 	"ifc-login-message": "login con {siteName}",
-	"ifc-sign-in-message": "Entra come ospite"
+	"ifc-sign-in-message": "Entra come ospite",
+	"ifc-open-chat-in-new-tab": "aperto in una nuova scheda",
+	"ifc-user": "tu"
 }

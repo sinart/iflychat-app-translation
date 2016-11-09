@@ -138,5 +138,7 @@
 	"ifc-time-in-minutes": "{number} 몇분 전에",
 	"ifc-time-in-second": "방금",
 	"ifc-login-message": "{siteName} 에 로그인",
-	"ifc-sign-in-message": "손님으로 로그인"
+	"ifc-sign-in-message": "손님으로 로그인",
+	"ifc-open-chat-in-new-tab": " 새 탭에서 열기",
+	"ifc-user": "당신"
 }

@@ -138,5 +138,7 @@
 	"ifc-time-in-minutes": "{number} นาทีที่ผ่านมา",
 	"ifc-time-in-second": "เมื่อกี้",
 	"ifc-login-message": "เข้าสู่ระบบด้วย {siteName}",
-	"ifc-sign-in-message": "ลงชื่อเข้าใช้ในฐานะแขก"
+	"ifc-sign-in-message": "ลงชื่อเข้าใช้ในฐานะแขก",
+	"ifc-open-chat-in-new-tab": "เปิดแท็บใหม่",
+	"ifc-user": "เธอ"
 }
