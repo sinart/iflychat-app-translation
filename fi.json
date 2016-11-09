@@ -13,7 +13,7 @@
 	"ifc-chat-list-roster-tr-active-users": "Aktiivisia käyttäjiä ({userList, number})",
 	"ifc-chat-list-roster-tr-recent-chats": "OMAT KESKUSTELUT ({recentList, number})",
 	"ifc-chat-list-roster-recent-user-tr-delete": "Poista",
-	"ifc-chat-list-roster-recent-user-tr-delete-recent-item": "Poista keskustelu,
+	"ifc-chat-list-roster-recent-user-tr-delete-recent-item": "Poista keskustelu",
 	"ifc-chat-list-roster-recent-user-tr-delete-recent-body": "Haluatko varmasti poistaa keskustelun pysyv�sti?",
 	"ifc-chat-list-roster-recent-user-tr-delete-cancel": "Peruuta",
 	"ifc-chat-list-roster-recent-user-tr-delete-yes": "Kyll�",
@@ -138,7 +138,7 @@
 	"ifc-time-in-minutes": "{number} minuuttia sitten",
 	"ifc-time-in-second": "hetki sitten",
 	"ifc-login-message": "Kirjaudu keskusteluun sivulla {siteName}",
-	"ifc-sign-in-message": "Kirjaudu vierailijana"
+	"ifc-sign-in-message": "Kirjaudu vierailijana",
 	"ifc-open-chat-in-new-tab": "Avaa uusi välilehti",
 	"ifc-user": "teitä"
 }
